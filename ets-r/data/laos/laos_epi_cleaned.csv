@@ -1,0 +1,433 @@
+time_period,store,org_unit,product,rainfall,mean_temperature,population,disease_cases,location
+2021-02,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),13.41285714,17.45357143,27291,120,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-02,0702phetxua,0702 Xiangkhoh,BCG diluent,13.41285714,17.45357143,27291,40,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-02,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),13.41285714,17.45357143,27291,3,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-02,0702phetxua,0702 Xiangkhoh,BCG vaccine,13.41285714,17.45357143,27291,40,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-02,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,13.41285714,17.45357143,27291,20,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-02,0702phetxua,0702 Xiangkhoh,Hep B vaccine,13.41285714,17.45357143,27291,0,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-02,0702phetxua,0702 Xiangkhoh,IPV vaccine,13.41285714,17.45357143,27291,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-02,0702phetxua,0702 Xiangkhoh,JE dilluent,13.41285714,17.45357143,27291,10,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-02,0702phetxua,0702 Xiangkhoh,MR dilluent,13.41285714,17.45357143,27291,20,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-02,0702phetxua,0702 Xiangkhoh,MR vaccine,13.41285714,17.45357143,27291,20,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-02,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,13.41285714,17.45357143,27291,20,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-02,0702phetxua,0702 Xiangkhoh,Safety Box,13.41285714,17.45357143,27291,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2021-03,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),10.15612903,21.52258065,27291,100,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-03,0702phetxua,0702 Xiangkhoh,BCG diluent,10.15612903,21.52258065,27291,100,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-03,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),10.15612903,21.52258065,27291,16,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-03,0702phetxua,0702 Xiangkhoh,BCG vaccine,10.15612903,21.52258065,27291,100,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-03,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,10.15612903,21.52258065,27291,17,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-03,0702phetxua,0702 Xiangkhoh,Hep B vaccine,10.15612903,21.52258065,27291,3,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-03,0702phetxua,0702 Xiangkhoh,IPV vaccine,10.15612903,21.52258065,27291,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-03,0702phetxua,0702 Xiangkhoh,JE dilluent,10.15612903,21.52258065,27291,25,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-03,0702phetxua,0702 Xiangkhoh,MR dilluent,10.15612903,21.52258065,27291,50,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-03,0702phetxua,0702 Xiangkhoh,MR vaccine,10.15612903,21.52258065,27291,50,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-03,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,10.15612903,21.52258065,27291,14,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-03,0702phetxua,0702 Xiangkhoh,Safety Box,10.15612903,21.52258065,27291,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2021-04,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),39.52566667,22.60666667,27291,210,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-04,0702phetxua,0702 Xiangkhoh,BCG diluent,39.52566667,22.60666667,27291,60,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-04,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),39.52566667,22.60666667,27291,9,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-04,0702phetxua,0702 Xiangkhoh,BCG vaccine,39.52566667,22.60666667,27291,60,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-04,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,39.52566667,22.60666667,27291,32,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-04,0702phetxua,0702 Xiangkhoh,Hep B vaccine,39.52566667,22.60666667,27291,8,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-04,0702phetxua,0702 Xiangkhoh,IPV vaccine,39.52566667,22.60666667,27291,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-04,0702phetxua,0702 Xiangkhoh,JE dilluent,39.52566667,22.60666667,27291,15,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-04,0702phetxua,0702 Xiangkhoh,MR dilluent,39.52566667,22.60666667,27291,10,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-04,0702phetxua,0702 Xiangkhoh,MR vaccine,39.52566667,22.60666667,27291,10,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-04,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,39.52566667,22.60666667,27291,28,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-04,0702phetxua,0702 Xiangkhoh,Safety Box,39.52566667,22.60666667,27291,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2021-05,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),34.79741935,25.57096774,27291,63,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-05,0702phetxua,0702 Xiangkhoh,BCG diluent,34.79741935,25.57096774,27291,60,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-05,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),34.79741935,25.57096774,27291,7,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-05,0702phetxua,0702 Xiangkhoh,BCG vaccine,34.79741935,25.57096774,27291,60,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-05,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,34.79741935,25.57096774,27291,14,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-05,0702phetxua,0702 Xiangkhoh,Hep B vaccine,34.79741935,25.57096774,27291,5,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-05,0702phetxua,0702 Xiangkhoh,IPV vaccine,34.79741935,25.57096774,27291,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-05,0702phetxua,0702 Xiangkhoh,JE dilluent,34.79741935,25.57096774,27291,5,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-05,0702phetxua,0702 Xiangkhoh,MR dilluent,34.79741935,25.57096774,27291,15,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-05,0702phetxua,0702 Xiangkhoh,MR vaccine,34.79741935,25.57096774,27291,15,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-05,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,34.79741935,25.57096774,27291,12,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-05,0702phetxua,0702 Xiangkhoh,Safety Box,34.79741935,25.57096774,27291,3,0702phetxua-0702 Xiangkhoh-Safety Box
+2021-06,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),45.55766667,24.96333333,27291,102,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-06,0702phetxua,0702 Xiangkhoh,BCG diluent,45.55766667,24.96333333,27291,0,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-06,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),45.55766667,24.96333333,27291,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-06,0702phetxua,0702 Xiangkhoh,BCG vaccine,45.55766667,24.96333333,27291,0,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-06,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,45.55766667,24.96333333,27291,32,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-06,0702phetxua,0702 Xiangkhoh,Hep B vaccine,45.55766667,24.96333333,27291,4,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-06,0702phetxua,0702 Xiangkhoh,IPV vaccine,45.55766667,24.96333333,27291,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-06,0702phetxua,0702 Xiangkhoh,JE dilluent,45.55766667,24.96333333,27291,15,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-06,0702phetxua,0702 Xiangkhoh,MR dilluent,45.55766667,24.96333333,27291,25,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-06,0702phetxua,0702 Xiangkhoh,MR vaccine,45.55766667,24.96333333,27291,25,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-06,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,45.55766667,24.96333333,27291,42,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-06,0702phetxua,0702 Xiangkhoh,Safety Box,45.55766667,24.96333333,27291,2,0702phetxua-0702 Xiangkhoh-Safety Box
+2021-07,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),69.03032258,24.65806452,27291,109,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-07,0702phetxua,0702 Xiangkhoh,BCG diluent,69.03032258,24.65806452,27291,60,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-07,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),69.03032258,24.65806452,27291,21,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-07,0702phetxua,0702 Xiangkhoh,BCG vaccine,69.03032258,24.65806452,27291,60,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-07,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,69.03032258,24.65806452,27291,23,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-07,0702phetxua,0702 Xiangkhoh,Hep B vaccine,69.03032258,24.65806452,27291,3,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-07,0702phetxua,0702 Xiangkhoh,IPV vaccine,69.03032258,24.65806452,27291,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-07,0702phetxua,0702 Xiangkhoh,JE dilluent,69.03032258,24.65806452,27291,15,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-07,0702phetxua,0702 Xiangkhoh,MR dilluent,69.03032258,24.65806452,27291,25,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-07,0702phetxua,0702 Xiangkhoh,MR vaccine,69.03032258,24.65806452,27291,25,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-07,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,69.03032258,24.65806452,27291,16,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-07,0702phetxua,0702 Xiangkhoh,Safety Box,69.03032258,24.65806452,27291,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2021-08,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),48.43096774,24.2483871,27291,49,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-08,0702phetxua,0702 Xiangkhoh,BCG diluent,48.43096774,24.2483871,27291,40,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-08,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),48.43096774,24.2483871,27291,11,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-08,0702phetxua,0702 Xiangkhoh,BCG vaccine,48.43096774,24.2483871,27291,40,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-08,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,48.43096774,24.2483871,27291,14,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-08,0702phetxua,0702 Xiangkhoh,Hep B vaccine,48.43096774,24.2483871,27291,6,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-08,0702phetxua,0702 Xiangkhoh,IPV vaccine,48.43096774,24.2483871,27291,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-08,0702phetxua,0702 Xiangkhoh,JE dilluent,48.43096774,24.2483871,27291,10,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-08,0702phetxua,0702 Xiangkhoh,MR dilluent,48.43096774,24.2483871,27291,15,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-08,0702phetxua,0702 Xiangkhoh,MR vaccine,48.43096774,24.2483871,27291,15,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-08,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,48.43096774,24.2483871,27291,12,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-08,0702phetxua,0702 Xiangkhoh,Safety Box,48.43096774,24.2483871,27291,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2021-09,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),59.78733333,23.09333333,27291,77,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-09,0702phetxua,0702 Xiangkhoh,BCG diluent,59.78733333,23.09333333,27291,40,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-09,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),59.78733333,23.09333333,27291,10,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-09,0702phetxua,0702 Xiangkhoh,BCG vaccine,59.78733333,23.09333333,27291,40,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-09,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,59.78733333,23.09333333,27291,11,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-09,0702phetxua,0702 Xiangkhoh,Hep B vaccine,59.78733333,23.09333333,27291,3,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-09,0702phetxua,0702 Xiangkhoh,IPV vaccine,59.78733333,23.09333333,27291,0,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-09,0702phetxua,0702 Xiangkhoh,JE dilluent,59.78733333,23.09333333,27291,0,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-09,0702phetxua,0702 Xiangkhoh,MR dilluent,59.78733333,23.09333333,27291,5,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-09,0702phetxua,0702 Xiangkhoh,MR vaccine,59.78733333,23.09333333,27291,5,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-09,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,59.78733333,23.09333333,27291,16,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-09,0702phetxua,0702 Xiangkhoh,Safety Box,59.78733333,23.09333333,27291,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2021-10,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),9.836451613,19.7516129,27291,131,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-10,0702phetxua,0702 Xiangkhoh,BCG diluent,9.836451613,19.7516129,27291,20,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-10,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),9.836451613,19.7516129,27291,8,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-10,0702phetxua,0702 Xiangkhoh,BCG vaccine,9.836451613,19.7516129,27291,20,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-10,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,9.836451613,19.7516129,27291,37,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-10,0702phetxua,0702 Xiangkhoh,Hep B vaccine,9.836451613,19.7516129,27291,4,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-10,0702phetxua,0702 Xiangkhoh,IPV vaccine,9.836451613,19.7516129,27291,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-10,0702phetxua,0702 Xiangkhoh,JE dilluent,9.836451613,19.7516129,27291,10,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-10,0702phetxua,0702 Xiangkhoh,MR dilluent,9.836451613,19.7516129,27291,65,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-10,0702phetxua,0702 Xiangkhoh,MR vaccine,9.836451613,19.7516129,27291,65,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-10,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,9.836451613,19.7516129,27291,32,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-10,0702phetxua,0702 Xiangkhoh,Safety Box,9.836451613,19.7516129,27291,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2021-11,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),7.176,16.65,27291,50,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-11,0702phetxua,0702 Xiangkhoh,BCG diluent,7.176,16.65,27291,20,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-11,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),7.176,16.65,27291,9,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-11,0702phetxua,0702 Xiangkhoh,BCG vaccine,7.176,16.65,27291,20,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-11,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,7.176,16.65,27291,11,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-11,0702phetxua,0702 Xiangkhoh,Hep B vaccine,7.176,16.65,27291,3,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-11,0702phetxua,0702 Xiangkhoh,IPV vaccine,7.176,16.65,27291,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-11,0702phetxua,0702 Xiangkhoh,JE dilluent,7.176,16.65,27291,10,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-11,0702phetxua,0702 Xiangkhoh,MR dilluent,7.176,16.65,27291,15,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-11,0702phetxua,0702 Xiangkhoh,MR vaccine,7.176,16.65,27291,15,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-11,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,7.176,16.65,27291,8,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-11,0702phetxua,0702 Xiangkhoh,Safety Box,7.176,16.65,27291,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2021-12,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),2.427666667,14.67,27291,1,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2021-12,0702phetxua,0702 Xiangkhoh,BCG diluent,2.427666667,14.67,27291,0,0702phetxua-0702 Xiangkhoh-BCG diluent
+2021-12,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),2.427666667,14.67,27291,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2021-12,0702phetxua,0702 Xiangkhoh,BCG vaccine,2.427666667,14.67,27291,0,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2021-12,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,2.427666667,14.67,27291,22,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2021-12,0702phetxua,0702 Xiangkhoh,Hep B vaccine,2.427666667,14.67,27291,6,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2021-12,0702phetxua,0702 Xiangkhoh,IPV vaccine,2.427666667,14.67,27291,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2021-12,0702phetxua,0702 Xiangkhoh,JE dilluent,2.427666667,14.67,27291,5,0702phetxua-0702 Xiangkhoh-JE dilluent
+2021-12,0702phetxua,0702 Xiangkhoh,MR dilluent,2.427666667,14.67,27291,15,0702phetxua-0702 Xiangkhoh-MR dilluent
+2021-12,0702phetxua,0702 Xiangkhoh,MR vaccine,2.427666667,14.67,27291,15,0702phetxua-0702 Xiangkhoh-MR vaccine
+2021-12,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,2.427666667,14.67,27291,20,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2021-12,0702phetxua,0702 Xiangkhoh,Safety Box,2.427666667,14.67,27291,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-01,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),3.464193548,15.46451613,27387,126,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-01,0702phetxua,0702 Xiangkhoh,BCG diluent,3.464193548,15.46451613,27387,100,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-01,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),3.464193548,15.46451613,27387,26,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-01,0702phetxua,0702 Xiangkhoh,BCG vaccine,3.464193548,15.46451613,27387,100,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-01,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,3.464193548,15.46451613,27387,29,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-01,0702phetxua,0702 Xiangkhoh,Hep B vaccine,3.464193548,15.46451613,27387,17,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-01,0702phetxua,0702 Xiangkhoh,IPV vaccine,3.464193548,15.46451613,27387,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-01,0702phetxua,0702 Xiangkhoh,JE dilluent,3.464193548,15.46451613,27387,15,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-01,0702phetxua,0702 Xiangkhoh,MR dilluent,3.464193548,15.46451613,27387,0,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-01,0702phetxua,0702 Xiangkhoh,MR vaccine,3.464193548,15.46451613,27387,0,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-01,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,3.464193548,15.46451613,27387,24,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-01,0702phetxua,0702 Xiangkhoh,Safety Box,3.464193548,15.46451613,27387,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-02,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),31.71392857,14.26428571,27387,36,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-02,0702phetxua,0702 Xiangkhoh,BCG diluent,31.71392857,14.26428571,27387,20,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-02,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),31.71392857,14.26428571,27387,10,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-02,0702phetxua,0702 Xiangkhoh,BCG vaccine,31.71392857,14.26428571,27387,20,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-02,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,31.71392857,14.26428571,27387,11,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-02,0702phetxua,0702 Xiangkhoh,Hep B vaccine,31.71392857,14.26428571,27387,13,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-02,0702phetxua,0702 Xiangkhoh,IPV vaccine,31.71392857,14.26428571,27387,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-02,0702phetxua,0702 Xiangkhoh,JE dilluent,31.71392857,14.26428571,27387,0,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-02,0702phetxua,0702 Xiangkhoh,MR dilluent,31.71392857,14.26428571,27387,5,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-02,0702phetxua,0702 Xiangkhoh,MR vaccine,31.71392857,14.26428571,27387,5,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-02,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,31.71392857,14.26428571,27387,8,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-02,0702phetxua,0702 Xiangkhoh,Safety Box,31.71392857,14.26428571,27387,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-03,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),19.72935484,20.33870968,27387,10,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-03,0702phetxua,0702 Xiangkhoh,BCG diluent,19.72935484,20.33870968,27387,40,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-03,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),19.72935484,20.33870968,27387,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-03,0702phetxua,0702 Xiangkhoh,BCG vaccine,19.72935484,20.33870968,27387,40,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-03,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,19.72935484,20.33870968,27387,25,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-03,0702phetxua,0702 Xiangkhoh,Hep B vaccine,19.72935484,20.33870968,27387,5,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-03,0702phetxua,0702 Xiangkhoh,IPV vaccine,19.72935484,20.33870968,27387,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-03,0702phetxua,0702 Xiangkhoh,JE dilluent,19.72935484,20.33870968,27387,5,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-03,0702phetxua,0702 Xiangkhoh,MR dilluent,19.72935484,20.33870968,27387,15,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-03,0702phetxua,0702 Xiangkhoh,MR vaccine,19.72935484,20.33870968,27387,15,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-03,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,19.72935484,20.33870968,27387,16,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-03,0702phetxua,0702 Xiangkhoh,Safety Box,19.72935484,20.33870968,27387,4,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-04,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),14.56466667,21.72,27387,100,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-04,0702phetxua,0702 Xiangkhoh,BCG diluent,14.56466667,21.72,27387,80,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-04,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),14.56466667,21.72,27387,18,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-04,0702phetxua,0702 Xiangkhoh,BCG vaccine,14.56466667,21.72,27387,80,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-04,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,14.56466667,21.72,27387,40,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-04,0702phetxua,0702 Xiangkhoh,Hep B vaccine,14.56466667,21.72,27387,4,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-04,0702phetxua,0702 Xiangkhoh,IPV vaccine,14.56466667,21.72,27387,15,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-04,0702phetxua,0702 Xiangkhoh,JE dilluent,14.56466667,21.72,27387,5,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-04,0702phetxua,0702 Xiangkhoh,MR dilluent,14.56466667,21.72,27387,15,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-04,0702phetxua,0702 Xiangkhoh,MR vaccine,14.56466667,21.72,27387,15,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-04,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,14.56466667,21.72,27387,40,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-04,0702phetxua,0702 Xiangkhoh,Safety Box,14.56466667,21.72,27387,2,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-05,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),60.91774194,22.49677419,27387,20,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-05,0702phetxua,0702 Xiangkhoh,BCG diluent,60.91774194,22.49677419,27387,40,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-05,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),60.91774194,22.49677419,27387,5,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-05,0702phetxua,0702 Xiangkhoh,BCG vaccine,60.91774194,22.49677419,27387,40,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-05,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,60.91774194,22.49677419,27387,20,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-05,0702phetxua,0702 Xiangkhoh,Hep B vaccine,60.91774194,22.49677419,27387,6,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-05,0702phetxua,0702 Xiangkhoh,IPV vaccine,60.91774194,22.49677419,27387,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-05,0702phetxua,0702 Xiangkhoh,JE dilluent,60.91774194,22.49677419,27387,25,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-05,0702phetxua,0702 Xiangkhoh,MR dilluent,60.91774194,22.49677419,27387,20,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-05,0702phetxua,0702 Xiangkhoh,MR vaccine,60.91774194,22.49677419,27387,20,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-05,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,60.91774194,22.49677419,27387,16,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-05,0702phetxua,0702 Xiangkhoh,Safety Box,60.91774194,22.49677419,27387,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-06,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),49.96633333,24.15666667,27387,80,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-06,0702phetxua,0702 Xiangkhoh,BCG diluent,49.96633333,24.15666667,27387,40,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-06,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),49.96633333,24.15666667,27387,14,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-06,0702phetxua,0702 Xiangkhoh,BCG vaccine,49.96633333,24.15666667,27387,40,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-06,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,49.96633333,24.15666667,27387,21,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-06,0702phetxua,0702 Xiangkhoh,Hep B vaccine,49.96633333,24.15666667,27387,6,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-06,0702phetxua,0702 Xiangkhoh,IPV vaccine,49.96633333,24.15666667,27387,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-06,0702phetxua,0702 Xiangkhoh,JE dilluent,49.96633333,24.15666667,27387,10,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-06,0702phetxua,0702 Xiangkhoh,MR dilluent,49.96633333,24.15666667,27387,30,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-06,0702phetxua,0702 Xiangkhoh,MR vaccine,49.96633333,24.15666667,27387,30,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-06,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,49.96633333,24.15666667,27387,20,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-06,0702phetxua,0702 Xiangkhoh,Safety Box,49.96633333,24.15666667,27387,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-07,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),63.28516129,24.63225806,27387,50,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-07,0702phetxua,0702 Xiangkhoh,BCG diluent,63.28516129,24.63225806,27387,80,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-07,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),63.28516129,24.63225806,27387,25,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-07,0702phetxua,0702 Xiangkhoh,BCG vaccine,63.28516129,24.63225806,27387,80,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-07,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,63.28516129,24.63225806,27387,49,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-07,0702phetxua,0702 Xiangkhoh,Hep B vaccine,63.28516129,24.63225806,27387,4,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-07,0702phetxua,0702 Xiangkhoh,IPV vaccine,63.28516129,24.63225806,27387,15,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-07,0702phetxua,0702 Xiangkhoh,JE dilluent,63.28516129,24.63225806,27387,25,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-07,0702phetxua,0702 Xiangkhoh,MR dilluent,63.28516129,24.63225806,27387,40,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-07,0702phetxua,0702 Xiangkhoh,MR vaccine,63.28516129,24.63225806,27387,40,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-07,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,63.28516129,24.63225806,27387,48,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-07,0702phetxua,0702 Xiangkhoh,Safety Box,63.28516129,24.63225806,27387,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-08,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),80.6516129,23.79677419,27387,100,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-08,0702phetxua,0702 Xiangkhoh,BCG diluent,80.6516129,23.79677419,27387,60,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-08,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),80.6516129,23.79677419,27387,18,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-08,0702phetxua,0702 Xiangkhoh,BCG vaccine,80.6516129,23.79677419,27387,60,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-08,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,80.6516129,23.79677419,27387,38,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-08,0702phetxua,0702 Xiangkhoh,Hep B vaccine,80.6516129,23.79677419,27387,2,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-08,0702phetxua,0702 Xiangkhoh,IPV vaccine,80.6516129,23.79677419,27387,25,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-08,0702phetxua,0702 Xiangkhoh,JE dilluent,80.6516129,23.79677419,27387,15,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-08,0702phetxua,0702 Xiangkhoh,MR dilluent,80.6516129,23.79677419,27387,50,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-08,0702phetxua,0702 Xiangkhoh,MR vaccine,80.6516129,23.79677419,27387,50,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-08,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,80.6516129,23.79677419,27387,40,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-08,0702phetxua,0702 Xiangkhoh,Safety Box,80.6516129,23.79677419,27387,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-09,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),42.895,22.58,27387,230,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-09,0702phetxua,0702 Xiangkhoh,BCG diluent,42.895,22.58,27387,30,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-09,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),42.895,22.58,27387,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-09,0702phetxua,0702 Xiangkhoh,BCG vaccine,42.895,22.58,27387,30,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-09,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,42.895,22.58,27387,37,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-09,0702phetxua,0702 Xiangkhoh,Hep B vaccine,42.895,22.58,27387,5,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-09,0702phetxua,0702 Xiangkhoh,IPV vaccine,42.895,22.58,27387,20,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-09,0702phetxua,0702 Xiangkhoh,JE dilluent,42.895,22.58,27387,5,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-09,0702phetxua,0702 Xiangkhoh,MR dilluent,42.895,22.58,27387,15,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-09,0702phetxua,0702 Xiangkhoh,MR vaccine,42.895,22.58,27387,15,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-09,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,42.895,22.58,27387,32,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-09,0702phetxua,0702 Xiangkhoh,Safety Box,42.895,22.58,27387,2,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-10,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),2.574193548,20.05806452,27387,60,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-10,0702phetxua,0702 Xiangkhoh,BCG diluent,2.574193548,20.05806452,27387,10,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-10,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),2.574193548,20.05806452,27387,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-10,0702phetxua,0702 Xiangkhoh,BCG vaccine,2.574193548,20.05806452,27387,10,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-10,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,2.574193548,20.05806452,27387,14,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-10,0702phetxua,0702 Xiangkhoh,Hep B vaccine,2.574193548,20.05806452,27387,6,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-10,0702phetxua,0702 Xiangkhoh,IPV vaccine,2.574193548,20.05806452,27387,0,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-10,0702phetxua,0702 Xiangkhoh,JE dilluent,2.574193548,20.05806452,27387,5,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-10,0702phetxua,0702 Xiangkhoh,MR dilluent,2.574193548,20.05806452,27387,5,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-10,0702phetxua,0702 Xiangkhoh,MR vaccine,2.574193548,20.05806452,27387,5,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-10,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,2.574193548,20.05806452,27387,8,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-10,0702phetxua,0702 Xiangkhoh,Safety Box,2.574193548,20.05806452,27387,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-11,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),15.065,19.81666667,27387,10,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-11,0702phetxua,0702 Xiangkhoh,BCG diluent,15.065,19.81666667,27387,40,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-11,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),15.065,19.81666667,27387,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-11,0702phetxua,0702 Xiangkhoh,BCG vaccine,15.065,19.81666667,27387,40,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-11,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,15.065,19.81666667,27387,25,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-11,0702phetxua,0702 Xiangkhoh,Hep B vaccine,15.065,19.81666667,27387,9,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-11,0702phetxua,0702 Xiangkhoh,IPV vaccine,15.065,19.81666667,27387,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-11,0702phetxua,0702 Xiangkhoh,JE dilluent,15.065,19.81666667,27387,30,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-11,0702phetxua,0702 Xiangkhoh,MR dilluent,15.065,19.81666667,27387,25,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-11,0702phetxua,0702 Xiangkhoh,MR vaccine,15.065,19.81666667,27387,25,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-11,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,15.065,19.81666667,27387,28,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-11,0702phetxua,0702 Xiangkhoh,Safety Box,15.065,19.81666667,27387,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2022-12,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),4.322666667,13.28666667,27387,0,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2022-12,0702phetxua,0702 Xiangkhoh,BCG diluent,4.322666667,13.28666667,27387,0,0702phetxua-0702 Xiangkhoh-BCG diluent
+2022-12,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),4.322666667,13.28666667,27387,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2022-12,0702phetxua,0702 Xiangkhoh,BCG vaccine,4.322666667,13.28666667,27387,0,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2022-12,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,4.322666667,13.28666667,27387,4,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2022-12,0702phetxua,0702 Xiangkhoh,Hep B vaccine,4.322666667,13.28666667,27387,8,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2022-12,0702phetxua,0702 Xiangkhoh,IPV vaccine,4.322666667,13.28666667,27387,0,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2022-12,0702phetxua,0702 Xiangkhoh,JE dilluent,4.322666667,13.28666667,27387,10,0702phetxua-0702 Xiangkhoh-JE dilluent
+2022-12,0702phetxua,0702 Xiangkhoh,MR dilluent,4.322666667,13.28666667,27387,5,0702phetxua-0702 Xiangkhoh-MR dilluent
+2022-12,0702phetxua,0702 Xiangkhoh,MR vaccine,4.322666667,13.28666667,27387,5,0702phetxua-0702 Xiangkhoh-MR vaccine
+2022-12,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,4.322666667,13.28666667,27387,4,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2022-12,0702phetxua,0702 Xiangkhoh,Safety Box,4.322666667,13.28666667,27387,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-01,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),0.771935484,13.98709677,27461,90,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-01,0702phetxua,0702 Xiangkhoh,BCG diluent,0.771935484,13.98709677,27461,70,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-01,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),0.771935484,13.98709677,27461,15,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-01,0702phetxua,0702 Xiangkhoh,BCG vaccine,0.771935484,13.98709677,27461,70,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-01,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,0.771935484,13.98709677,27461,18,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-01,0702phetxua,0702 Xiangkhoh,Hep B vaccine,0.771935484,13.98709677,27461,0,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-01,0702phetxua,0702 Xiangkhoh,IPV vaccine,0.771935484,13.98709677,27461,10,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-01,0702phetxua,0702 Xiangkhoh,JE dilluent,0.771935484,13.98709677,27461,0,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-01,0702phetxua,0702 Xiangkhoh,MR dilluent,0.771935484,13.98709677,27461,40,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-01,0702phetxua,0702 Xiangkhoh,MR vaccine,0.771935484,13.98709677,27461,40,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-01,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,0.771935484,13.98709677,27461,28,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-01,0702phetxua,0702 Xiangkhoh,Safety Box,0.771935484,13.98709677,27461,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-02,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),5.135357143,17.9,27461,10,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-02,0702phetxua,0702 Xiangkhoh,BCG diluent,5.135357143,17.9,27461,0,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-02,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),5.135357143,17.9,27461,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-02,0702phetxua,0702 Xiangkhoh,BCG vaccine,5.135357143,17.9,27461,0,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-02,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,5.135357143,17.9,27461,1,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-02,0702phetxua,0702 Xiangkhoh,Hep B vaccine,5.135357143,17.9,27461,6,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-02,0702phetxua,0702 Xiangkhoh,IPV vaccine,5.135357143,17.9,27461,0,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-02,0702phetxua,0702 Xiangkhoh,JE dilluent,5.135357143,17.9,27461,0,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-02,0702phetxua,0702 Xiangkhoh,MR dilluent,5.135357143,17.9,27461,10,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-02,0702phetxua,0702 Xiangkhoh,MR vaccine,5.135357143,17.9,27461,10,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-02,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,5.135357143,17.9,27461,0,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-02,0702phetxua,0702 Xiangkhoh,Safety Box,5.135357143,17.9,27461,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-03,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),8.625483871,20.43870968,27461,200,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-03,0702phetxua,0702 Xiangkhoh,BCG diluent,8.625483871,20.43870968,27461,100,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-03,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),8.625483871,20.43870968,27461,19,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-03,0702phetxua,0702 Xiangkhoh,BCG vaccine,8.625483871,20.43870968,27461,100,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-03,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,8.625483871,20.43870968,27461,45,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-03,0702phetxua,0702 Xiangkhoh,Hep B vaccine,8.625483871,20.43870968,27461,4,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-03,0702phetxua,0702 Xiangkhoh,IPV vaccine,8.625483871,20.43870968,27461,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-03,0702phetxua,0702 Xiangkhoh,JE dilluent,8.625483871,20.43870968,27461,30,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-03,0702phetxua,0702 Xiangkhoh,MR dilluent,8.625483871,20.43870968,27461,45,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-03,0702phetxua,0702 Xiangkhoh,MR vaccine,8.625483871,20.43870968,27461,45,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-03,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,8.625483871,20.43870968,27461,36,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-03,0702phetxua,0702 Xiangkhoh,Safety Box,8.625483871,20.43870968,27461,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-04,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),12.33533333,24.53666667,27461,30,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-04,0702phetxua,0702 Xiangkhoh,BCG diluent,12.33533333,24.53666667,27461,0,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-04,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),12.33533333,24.53666667,27461,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-04,0702phetxua,0702 Xiangkhoh,BCG vaccine,12.33533333,24.53666667,27461,0,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-04,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,12.33533333,24.53666667,27461,11,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-04,0702phetxua,0702 Xiangkhoh,Hep B vaccine,12.33533333,24.53666667,27461,5,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-04,0702phetxua,0702 Xiangkhoh,IPV vaccine,12.33533333,24.53666667,27461,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-04,0702phetxua,0702 Xiangkhoh,JE dilluent,12.33533333,24.53666667,27461,0,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-04,0702phetxua,0702 Xiangkhoh,MR dilluent,12.33533333,24.53666667,27461,0,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-04,0702phetxua,0702 Xiangkhoh,MR vaccine,12.33533333,24.53666667,27461,0,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-04,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,12.33533333,24.53666667,27461,12,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-04,0702phetxua,0702 Xiangkhoh,Safety Box,12.33533333,24.53666667,27461,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-05,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),24.68677419,25.66774194,27461,100,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-05,0702phetxua,0702 Xiangkhoh,BCG diluent,24.68677419,25.66774194,27461,20,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-05,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),24.68677419,25.66774194,27461,12,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-05,0702phetxua,0702 Xiangkhoh,BCG vaccine,24.68677419,25.66774194,27461,20,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-05,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,24.68677419,25.66774194,27461,29,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-05,0702phetxua,0702 Xiangkhoh,Hep B vaccine,24.68677419,25.66774194,27461,2,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-05,0702phetxua,0702 Xiangkhoh,IPV vaccine,24.68677419,25.66774194,27461,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-05,0702phetxua,0702 Xiangkhoh,JE dilluent,24.68677419,25.66774194,27461,5,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-05,0702phetxua,0702 Xiangkhoh,MR dilluent,24.68677419,25.66774194,27461,10,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-05,0702phetxua,0702 Xiangkhoh,MR vaccine,24.68677419,25.66774194,27461,10,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-05,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,24.68677419,25.66774194,27461,24,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-05,0702phetxua,0702 Xiangkhoh,Safety Box,24.68677419,25.66774194,27461,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-06,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),46.834,25.12,27461,270,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-06,0702phetxua,0702 Xiangkhoh,BCG diluent,46.834,25.12,27461,80,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-06,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),46.834,25.12,27461,12,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-06,0702phetxua,0702 Xiangkhoh,BCG vaccine,46.834,25.12,27461,60,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-06,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,46.834,25.12,27461,59,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-06,0702phetxua,0702 Xiangkhoh,Hep B vaccine,46.834,25.12,27461,2,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-06,0702phetxua,0702 Xiangkhoh,IPV vaccine,46.834,25.12,27461,10,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-06,0702phetxua,0702 Xiangkhoh,JE dilluent,46.834,25.12,27461,25,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-06,0702phetxua,0702 Xiangkhoh,MR dilluent,46.834,25.12,27461,45,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-06,0702phetxua,0702 Xiangkhoh,MR vaccine,46.834,25.12,27461,45,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-06,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,46.834,25.12,27461,52,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-06,0702phetxua,0702 Xiangkhoh,Safety Box,46.834,25.12,27461,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-07,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),44.30451613,25.19354839,27461,240,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-07,0702phetxua,0702 Xiangkhoh,BCG diluent,44.30451613,25.19354839,27461,0,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-07,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),44.30451613,25.19354839,27461,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-07,0702phetxua,0702 Xiangkhoh,BCG vaccine,44.30451613,25.19354839,27461,0,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-07,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,44.30451613,25.19354839,27461,35,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-07,0702phetxua,0702 Xiangkhoh,Hep B vaccine,44.30451613,25.19354839,27461,4,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-07,0702phetxua,0702 Xiangkhoh,IPV vaccine,44.30451613,25.19354839,27461,15,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-07,0702phetxua,0702 Xiangkhoh,JE dilluent,44.30451613,25.19354839,27461,20,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-07,0702phetxua,0702 Xiangkhoh,MR dilluent,44.30451613,25.19354839,27461,25,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-07,0702phetxua,0702 Xiangkhoh,MR vaccine,44.30451613,25.19354839,27461,25,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-07,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,44.30451613,25.19354839,27461,36,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-07,0702phetxua,0702 Xiangkhoh,Safety Box,44.30451613,25.19354839,27461,2,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-08,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),88.08903226,23.9483871,27461,70,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-08,0702phetxua,0702 Xiangkhoh,BCG diluent,88.08903226,23.9483871,27461,80,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-08,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),88.08903226,23.9483871,27461,11,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-08,0702phetxua,0702 Xiangkhoh,BCG vaccine,88.08903226,23.9483871,27461,80,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-08,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,88.08903226,23.9483871,27461,33,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-08,0702phetxua,0702 Xiangkhoh,Hep B vaccine,88.08903226,23.9483871,27461,4,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-08,0702phetxua,0702 Xiangkhoh,IPV vaccine,88.08903226,23.9483871,27461,20,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-08,0702phetxua,0702 Xiangkhoh,JE dilluent,88.08903226,23.9483871,27461,20,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-08,0702phetxua,0702 Xiangkhoh,MR dilluent,88.08903226,23.9483871,27461,25,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-08,0702phetxua,0702 Xiangkhoh,MR vaccine,88.08903226,23.9483871,27461,25,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-08,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,88.08903226,23.9483871,27461,24,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-08,0702phetxua,0702 Xiangkhoh,Safety Box,88.08903226,23.9483871,27461,2,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-09,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),35.655,23.08333333,27461,90,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-09,0702phetxua,0702 Xiangkhoh,BCG diluent,35.655,23.08333333,27461,20,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-09,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),35.655,23.08333333,27461,11,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-09,0702phetxua,0702 Xiangkhoh,BCG vaccine,35.655,23.08333333,27461,20,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-09,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,35.655,23.08333333,27461,5,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-09,0702phetxua,0702 Xiangkhoh,Hep B vaccine,35.655,23.08333333,27461,4,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-09,0702phetxua,0702 Xiangkhoh,IPV vaccine,35.655,23.08333333,27461,0,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-09,0702phetxua,0702 Xiangkhoh,JE dilluent,35.655,23.08333333,27461,10,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-09,0702phetxua,0702 Xiangkhoh,MR dilluent,35.655,23.08333333,27461,20,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-09,0702phetxua,0702 Xiangkhoh,MR vaccine,35.655,23.08333333,27461,20,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-09,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,35.655,23.08333333,27461,12,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-09,0702phetxua,0702 Xiangkhoh,Safety Box,35.655,23.08333333,27461,2,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-10,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),15.52225806,21.5483871,27461,80,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-10,0702phetxua,0702 Xiangkhoh,BCG diluent,15.52225806,21.5483871,27461,20,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-10,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),15.52225806,21.5483871,27461,8,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-10,0702phetxua,0702 Xiangkhoh,BCG vaccine,15.52225806,21.5483871,27461,20,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-10,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,15.52225806,21.5483871,27461,19,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-10,0702phetxua,0702 Xiangkhoh,Hep B vaccine,15.52225806,21.5483871,27461,7,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-10,0702phetxua,0702 Xiangkhoh,IPV vaccine,15.52225806,21.5483871,27461,5,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-10,0702phetxua,0702 Xiangkhoh,JE dilluent,15.52225806,21.5483871,27461,10,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-10,0702phetxua,0702 Xiangkhoh,MR dilluent,15.52225806,21.5483871,27461,5,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-10,0702phetxua,0702 Xiangkhoh,MR vaccine,15.52225806,21.5483871,27461,5,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-10,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,15.52225806,21.5483871,27461,12,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-10,0702phetxua,0702 Xiangkhoh,Safety Box,15.52225806,21.5483871,27461,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-11,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),3.074,18.74,27461,195,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-11,0702phetxua,0702 Xiangkhoh,BCG diluent,3.074,18.74,27461,60,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-11,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),3.074,18.74,27461,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-11,0702phetxua,0702 Xiangkhoh,BCG vaccine,3.074,18.74,27461,60,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-11,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,3.074,18.74,27461,23,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-11,0702phetxua,0702 Xiangkhoh,Hep B vaccine,3.074,18.74,27461,4,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-11,0702phetxua,0702 Xiangkhoh,IPV vaccine,3.074,18.74,27461,10,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-11,0702phetxua,0702 Xiangkhoh,JE dilluent,3.074,18.74,27461,20,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-11,0702phetxua,0702 Xiangkhoh,MR dilluent,3.074,18.74,27461,45,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-11,0702phetxua,0702 Xiangkhoh,MR vaccine,3.074,18.74,27461,45,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-11,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,3.074,18.74,27461,12,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-11,0702phetxua,0702 Xiangkhoh,Safety Box,3.074,18.74,27461,1,0702phetxua-0702 Xiangkhoh-Safety Box
+2023-12,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),2.269,16.23,27461,150,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2023-12,0702phetxua,0702 Xiangkhoh,BCG diluent,2.269,16.23,27461,20,0702phetxua-0702 Xiangkhoh-BCG diluent
+2023-12,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),2.269,16.23,27461,11,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2023-12,0702phetxua,0702 Xiangkhoh,BCG vaccine,2.269,16.23,27461,20,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2023-12,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,2.269,16.23,27461,26,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2023-12,0702phetxua,0702 Xiangkhoh,Hep B vaccine,2.269,16.23,27461,8,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2023-12,0702phetxua,0702 Xiangkhoh,IPV vaccine,2.269,16.23,27461,10,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2023-12,0702phetxua,0702 Xiangkhoh,JE dilluent,2.269,16.23,27461,15,0702phetxua-0702 Xiangkhoh-JE dilluent
+2023-12,0702phetxua,0702 Xiangkhoh,MR dilluent,2.269,16.23,27461,20,0702phetxua-0702 Xiangkhoh-MR dilluent
+2023-12,0702phetxua,0702 Xiangkhoh,MR vaccine,2.269,16.23,27461,20,0702phetxua-0702 Xiangkhoh-MR vaccine
+2023-12,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,2.269,16.23,27461,28,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2023-12,0702phetxua,0702 Xiangkhoh,Safety Box,2.269,16.23,27461,0,0702phetxua-0702 Xiangkhoh-Safety Box
+2024-01,0702phetxua,0702 Xiangkhoh,AD syringe (0.5ml),1.929032258,15.65806452,NA,80,0702phetxua-0702 Xiangkhoh-AD syringe (0.5ml)
+2024-01,0702phetxua,0702 Xiangkhoh,BCG diluent,1.929032258,15.65806452,NA,0,0702phetxua-0702 Xiangkhoh-BCG diluent
+2024-01,0702phetxua,0702 Xiangkhoh,BCG syringe ( 0.05ml),1.929032258,15.65806452,NA,0,0702phetxua-0702 Xiangkhoh-BCG syringe ( 0.05ml)
+2024-01,0702phetxua,0702 Xiangkhoh,BCG vaccine,1.929032258,15.65806452,NA,0,0702phetxua-0702 Xiangkhoh-BCG vaccine
+2024-01,0702phetxua,0702 Xiangkhoh,DTP-Hep B- Hib (Penta) vaccine,1.929032258,15.65806452,NA,29,0702phetxua-0702 Xiangkhoh-DTP-Hep B- Hib (Penta) vaccine
+2024-01,0702phetxua,0702 Xiangkhoh,Hep B vaccine,1.929032258,15.65806452,NA,4,0702phetxua-0702 Xiangkhoh-Hep B vaccine
+2024-01,0702phetxua,0702 Xiangkhoh,IPV vaccine,1.929032258,15.65806452,NA,0,0702phetxua-0702 Xiangkhoh-IPV vaccine
+2024-01,0702phetxua,0702 Xiangkhoh,JE dilluent,1.929032258,15.65806452,NA,0,0702phetxua-0702 Xiangkhoh-JE dilluent
+2024-01,0702phetxua,0702 Xiangkhoh,MR dilluent,1.929032258,15.65806452,NA,25,0702phetxua-0702 Xiangkhoh-MR dilluent
+2024-01,0702phetxua,0702 Xiangkhoh,MR vaccine,1.929032258,15.65806452,NA,25,0702phetxua-0702 Xiangkhoh-MR vaccine
+2024-01,0702phetxua,0702 Xiangkhoh,PCV13 vaccine,1.929032258,15.65806452,NA,8,0702phetxua-0702 Xiangkhoh-PCV13 vaccine
+2024-01,0702phetxua,0702 Xiangkhoh,Safety Box,1.929032258,15.65806452,NA,1,0702phetxua-0702 Xiangkhoh-Safety Box
