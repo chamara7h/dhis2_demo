@@ -1,7 +1,5 @@
 # Webinar: Leveraging Chap and the DHIS2 Platform for Stock Forecasting
 
-# Webinar: Leveraging CHAP and the DHIS2 Platform for Stock Forecasting
-
 This repository contains the **demo materials** for the webinar:
 
 **Leveraging CHAP and the DHIS2 Platform for Stock Forecasting**
